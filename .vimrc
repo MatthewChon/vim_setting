@@ -32,7 +32,7 @@ set hlsearch
 set incsearch
 
 
-set ignorecase  # Enable Case insensitive search
+set ignorecase                  " Enable Case insensitive search
 set smartcase
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""
